@@ -78,3 +78,18 @@ h2{
     font-size: 32px;
     font-weight: bold;
 }
+
+.selecao p{
+    color: darkgreen;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.selecao{
+    text-align: center;
+}
+.selecao img{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
